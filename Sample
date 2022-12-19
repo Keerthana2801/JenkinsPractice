@@ -6,7 +6,8 @@ public class Sample {
 		System.out.println("Venu");
     System.out.println("Geethu");
     System.out.println("Jayabalan");
-        System.out.println("Vamika");
+     System.out.println("Vamika");
+     System.out.println("Alan");
         
     
 	
